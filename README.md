@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### 🔭 I’m currently working on ...
+- Finishing my undergrad
 <!--
 **Th3Arch1t3ct/Th3Arch1t3ct** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
