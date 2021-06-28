@@ -1,7 +1,15 @@
 ### Hi there 👋
 
-### 🔭 I’m currently working on ...
-- Finishing my undergrad
+I am a software engineer with a passion for programming and spending time with my family.
+
+
+
+**Talking about personal stuff:**
+- I am the Principle Architect for Eyeglass Industrial; an MRP system focused on small businesses. <!-- Get a website here! -->
+- I am earning my Master's in Software Engineering from [Regis University](https://www.regis.edu/academics/majors-and-programs/graduate/software-engineering-ms)
+- Reach me via: [evansnyder16@gmail.com](mailto:evansnyder16@gmail.com)
+- Resume (Coming soon)
+
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Th3Arch1t3ct&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <!--
