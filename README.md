@@ -11,11 +11,11 @@ I am a software engineer with a passion for programming and spending time with m
 - Resume (Coming soon)
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Th3Arch1t3ct&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=evandsnyder&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <!--
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Th3Arch1t3ct&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-**Th3Arch1t3ct/Th3Arch1t3ct** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=evandsnyder&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+**evandsnyder/evandsnyder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 
