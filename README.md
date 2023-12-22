@@ -15,9 +15,9 @@ passionate about games, space, and software engineering.
 **Current goals & what I'm Learning:**
 - Working on expanding my knowledge of C++ and developing a strong understanding of Game Development principles
 - I'd like to transition into the gaming industry as an Online Game Engineer
-
+<!--
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=evandsnyder&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
+-->
 
 ⚡ Fun fact: I brew my own beer!
 <!--
