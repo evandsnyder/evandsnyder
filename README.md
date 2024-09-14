@@ -1,18 +1,21 @@
 ### Hi there 👋
 
-I am a Software Engineer with over 7 years of experience in C++, Python, and Cyber Security. I am a proactive engineer that is
+I am a Software Engineer with over a decade of experience in C++, Python, and Cyber Security. I am a proactive engineer that is
 passionate about games, space, and software engineering.
 
 
 
 **What I do:**
-- I write high quality Ground Control & Configuration Software for a Software Defined Radar to put Satellites up in space
+- Craft games and interactive experiences for players to enjoy
+- Guide and mentor aspiring game developers in their own creative journeys
 - I have Master's in Software Engineering and a Bachelor's in Computer Science
+- Check out my [portfolio site](https://www.evansnyder.dev)
 - Reach me via: [evansnyder16@gmail.com](mailto:evansnyder16@gmail.com)
-- [Resume](https://github.com/evandsnyder/evandsnyder/files/9839168/Snyder_Resume_10OCT22R2.pdf)
+- [Resume](https://github.com/user-attachments/files/17002089/EvanSnyder_Resume.pdf)
 
 
 **Current goals & what I'm Learning:**
+- I am building 
 - Working on expanding my knowledge of C++ and developing a strong understanding of Game Development principles
 - I'd like to transition into the gaming industry as an Online Game Engineer
 <!--
