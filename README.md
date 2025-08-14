@@ -5,13 +5,15 @@ passionate about games, space, and software engineering.
 
 
 
-**What I do:**
-- Craft games and interactive experiences for players to enjoy
-- Guide and mentor aspiring game developers in their own creative journeys
+**I like to...**
+- Craft games and interactive experiences for players to enjoy using Unreal Engine 5
+- Guide and mentor aspiring game developers in their own creative journeys through [Vertex School](https://www.vertexschool.com)
 - I have Master's in Software Engineering and a Bachelor's in Computer Science
+<!--
 - Check out my [portfolio site](https://www.evansnyder.dev)
+-->
 - Reach me via: [evansnyder16@gmail.com](mailto:evansnyder16@gmail.com)
-- [Resume](https://github.com/user-attachments/files/17002089/EvanSnyder_Resume.pdf)
+- [Resume](https://github.com/user-attachments/files/21775028/SnyderEvan_Resume.pdf)
 
 
 **Current goals & what I'm Learning:**
@@ -42,3 +44,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
