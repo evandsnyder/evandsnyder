@@ -19,7 +19,7 @@ passionate about games, space, and software engineering.
 - Check out my [portfolio site](https://www.evansnyder.dev)
 -->
 
-
+<!--[
 **Current goals & what I'm Learning:**
 - I am building 
 - Working on expanding my knowledge of C++ and developing a strong understanding of Game Development principles
