@@ -8,12 +8,16 @@ passionate about games, space, and software engineering.
 **I like to...**
 - Craft games and interactive experiences for players to enjoy using Unreal Engine 5
 - Guide and mentor aspiring game developers in their own creative journeys through [Vertex School](https://www.vertexschool.com)
-- I have Master's in Software Engineering and a Bachelor's in Computer Science
+- Study and play classical guitar
+
+**Some helpful info:**
+- I have Master's in Software Engineering and a Bachelor's in Computer Science from Regis University
+- Reach me via: [evansnyder16@gmail.com](mailto:evansnyder16@gmail.com)
+- [Resume](https://github.com/user-attachments/files/21775028/SnyderEvan_Resume.pdf)
+
 <!--
 - Check out my [portfolio site](https://www.evansnyder.dev)
 -->
-- Reach me via: [evansnyder16@gmail.com](mailto:evansnyder16@gmail.com)
-- [Resume](https://github.com/user-attachments/files/21775028/SnyderEvan_Resume.pdf)
 
 
 **Current goals & what I'm Learning:**
@@ -24,7 +28,6 @@ passionate about games, space, and software engineering.
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=evandsnyder&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 -->
 
-⚡ Fun fact: I brew my own beer!
 <!--
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=evandsnyder&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
